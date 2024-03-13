@@ -24,6 +24,6 @@ public class getMatrix {
             }
             System.out.println();
           }
-
+          sc.close();
     }
 }
