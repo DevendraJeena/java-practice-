@@ -1,4 +1,5 @@
-public class myClass {
+package array;
+public class sumMatrix {
 
     public static void main(String[] args) {
         // Matrices
