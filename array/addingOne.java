@@ -1,6 +1,6 @@
 package array;
 
-public class addOne {
+public class addingOne {
     public static void main(String[] args) {
         int [][]matrix = {
             {1,2,3},
